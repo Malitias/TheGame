@@ -1,3 +1,6 @@
 this will be the todo list
 
 game variables like quest progress and player stats in scriptableObject to reduce memory load
+
+@Sparten Enemy Behavior[Leader.Behavior] to the group/Alies (Halo: Elite)
+* !Attack until x alies or all died locked on group backround e.g Alpha behavior(Proud Challenge) or Pride behavior(Group Attack) usw (work in progress)
