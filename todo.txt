@@ -4,3 +4,5 @@ game variables like quest progress and player stats in scriptableObject to reduc
 
 @Sparten Enemy Behavior[Leader.Behavior] to the group/Alies (Halo: Elite)
 * !Attack until x alies or all died locked on group backround e.g Alpha behavior(Proud Challenge) or Pride behavior(Group Attack) usw (work in progress)
+
+Timo meld dich Mal wenn du das liest!!
